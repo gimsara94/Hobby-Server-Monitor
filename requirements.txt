@@ -1,0 +1,6 @@
+# Backend runtime and local LXD integration.
+falcon==4.3.1
+gunicorn==26.2.0
+python-dotenv==1.2.4
+requests==2.34.2
+pylxd==2.4.2
